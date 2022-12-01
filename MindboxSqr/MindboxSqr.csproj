@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFrameworks>net6.0;</TargetFrameworks>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>MindboxSqr</RootNamespace>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+        <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+        <AnalysisLevel>latest</AnalysisLevel>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <CodeAnalysisTreatWarningsAsErrors>true</CodeAnalysisTreatWarningsAsErrors>
+        <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>MindboxSqr</Title>
+        <Authors>Pavel Sh</Authors>
+        <Description>Library to calculate square for a big amount of different figures.</Description>
+        <Copyright>Pavel Sh</Copyright>
+        <PackageProjectUrl>https://github.com/lawrentiy/MindboxSqr</PackageProjectUrl>
+        <PackageLicense>https://directory.fsf.org/wiki/License:BSD-3-Clause</PackageLicense>
+        <RepositoryUrl>https://github.com/lawrentiy/MindboxSqr</RepositoryUrl>
+        <RepositoryType>github</RepositoryType>
+    </PropertyGroup>
+
+</Project>
